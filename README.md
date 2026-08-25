@@ -3,8 +3,8 @@
 Configure a survey campaign from **Content** and **Styling** tabs and see every change
 reflected instantly in a live mobile preview — no save button, no refresh.
 
-**Live demo:** _add your deployment URL_
-**Repository:** _add your GitHub URL_
+**Live demo:** https://simplified-survey-campaign-builder.vercel.app/
+**Repository:** https://github.com/crathore665/Simplified-Survey-Campaign-Builder
 
 ## Features
 - Real-time preview — panels and preview read the same state object.
